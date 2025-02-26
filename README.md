@@ -50,3 +50,8 @@ Este projeto está disponível online no GitHub Pages:
 
 - **TypeScript**: para desenvolvimento.
 - **GitHub Pages**: para deploy.
+
+## Feito por:
+
+[Gabriel Nascimento]() -> Lógica, Html, Css e Typescript
+{Thiago Mole}(https://github.com/ThiagoMole) -> cores e animação do plano de fundo
