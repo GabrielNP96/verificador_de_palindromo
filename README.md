@@ -53,5 +53,5 @@ Este projeto está disponível online no GitHub Pages:
 
 ## Feito por:
 
-[Gabriel Nascimento]() -> Lógica, Html, Css e Typescript
+[Gabriel Nascimento](https://github.com/GabrielNP96) -> Lógica, Html, Css e Typescript
 {Thiago Mole}(https://github.com/ThiagoMole) -> cores e animação do plano de fundo
