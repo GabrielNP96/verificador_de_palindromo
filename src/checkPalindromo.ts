@@ -3,12 +3,12 @@ export function checkPalindromo(str : string) : string {
     const wordStr: string = strFormatted.split("").reverse().join("");
 
     if(strFormatted.length < 2) {
-        return 'Você precisa escrever ao menos um caractere';
+        return '<p class = "not-palindrome" >>Você precisa escrever ao menos um caractere</p>';
     }
     
     if (strFormatted === wordStr) {
-        return `${str} é um palíndromo`;
+        return `<p class= "palindrome">${str} é um palíndromo</p>`;
     } else {
-        return `${str} não é um palindromo`
+        return `<p class = "not-palindrome">${str} não é um palindromo</p>`;
     }
 }
