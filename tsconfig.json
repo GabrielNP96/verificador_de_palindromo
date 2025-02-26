@@ -1,7 +1,7 @@
 {
     "compilerOptions": {
       "target": "ES2024",                         // Versão do JavaScript que será gerada
-      "module": "commonjs",                      // Sistema de módulos
+      "module": "ESNext",                        // Sistema de módulos
       "outDir": "./dist/js",                     // Pasta de saída dos arquivos compilados
       "rootDir": "./src",                        // Pasta de origem dos arquivos TypeScript
       "strict": true,                            // Habilita todas as checagens estritas

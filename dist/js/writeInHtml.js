@@ -1,7 +1,4 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
-exports.writeInHtml = writeInHtml;
-function writeInHtml(str) {
+export function writeInHtml(str) {
     const answerHtml = document.querySelector('.answer');
     if (answerHtml) {
         answerHtml.innerHTML = str;

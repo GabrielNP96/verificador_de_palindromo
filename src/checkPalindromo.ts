@@ -9,6 +9,6 @@ export function checkPalindromo(str : string) : string {
     if (strFormatted === wordStr) {
         return `<p class= "palindrome">${str} é um palíndromo</p>`;
     } else {
-        return `<p class = "not-palindrome">${str} não é um palindromo</p>`;
+        return `<p class = "not-palindrome">${str} não é um palíndromo</p>`;
     }
 }

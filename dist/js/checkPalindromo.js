@@ -1,7 +1,4 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
-exports.checkPalindromo = checkPalindromo;
-function checkPalindromo(str) {
+export function checkPalindromo(str) {
     const strFormatted = str.replace(/[\s\p{P}]+/gu, "");
     const wordStr = strFormatted.split("").reverse().join("");
     if (strFormatted.length < 2) {
@@ -11,6 +8,6 @@ function checkPalindromo(str) {
         return `<p class= "palindrome">${str} é um palíndromo</p>`;
     }
     else {
-        return `<p class = "not-palindrome">${str} não é um palindromo</p>`;
+        return `<p class = "not-palindrome">${str} não é um palíndromo</p>`;
     }
 }
