@@ -3,7 +3,6 @@ import { checkPalindromo } from "./checkPalindromo.js";
 import { writeInHtml } from "./writeInHtml.js";
 
 const btn = document.querySelector('button');
-
 btn?.addEventListener('click', (event) => {
     event.preventDefault();
 
