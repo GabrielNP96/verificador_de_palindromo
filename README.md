@@ -42,9 +42,9 @@ Este projeto é um **verificador de palíndromos** simples, criado para testar s
 
 ## Deploy
 
-Este projeto está disponível online no GitHub Pages:
+Este projeto está disponível online:
 
-[Visite o projeto no GitHub Pages](https://gabrielnp96.github.io/verificador_de_palindromo/)
+[Visite o projeto](https://verificador-de-palindromo-gilt.vercel.app/)
 
 ## Tecnologias utilizadas
 
